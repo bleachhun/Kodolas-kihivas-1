@@ -1,0 +1,18 @@
+.category {
+    border: 1px solid black;
+    margin: 10px 0;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.product {
+    padding: 5px;
+    border-top: 1px solid gray;
+}
+
+#loading {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
